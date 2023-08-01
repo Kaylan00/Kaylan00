@@ -1,5 +1,5 @@
 Olá! Eu sou o Kaylan 
-- 🌱 Aperfeiçando Javascript
+- 🌱 Aperfeiçoando Javascript
 - 📚 Aperfeiçando React
 - 😄 Pronomes:ele/dele
 <div style="display: inline_block"><br>
