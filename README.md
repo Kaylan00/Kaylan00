@@ -10,7 +10,7 @@ Olá! Eu sou o Kaylan
   <img align="center" alt="kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt = "kay-Nodejs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
   <img align="center" alt = "kay-AngularJs" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" />
-  <img align="center" alt = "kay-Boostrap" height="30" width="40" src="https://logospng.org/wp-content/uploads/bootstrap.png" />
+  <img align="center" alt = "kay-Boostrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 </div>
 
 ##
