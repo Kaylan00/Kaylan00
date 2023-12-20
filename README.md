@@ -1,6 +1,6 @@
  Olá! Eu sou o Kaylan
-- 💡 Front-end - Conhcimento em Html, Css, javaScript, Bootstrap, Figma, Wordpress, Angular e React
-- 💻 Back-end - Conhecimento em PHP, Java, SpringBoot, Nodejs, MongoDB e Mysql
+- 💡 Front-end - Conhcimento em HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, WORDPRESS, ANGULAR E REACT
+- 💻 Back-end - Conhecimento em PHP, JAVA, SPRINGBOOT, NODEJS, MONGODB e MYSQL
 - 😄 Pronomes:ele/dele
 
 <div style="display: inline_block"><br>
