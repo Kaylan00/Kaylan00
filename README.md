@@ -1,5 +1,5 @@
  Olá! Eu sou o Kaylan
-- 💡 Front-end - Conhcimento em HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, WORDPRESS, ANGULAR E REACT
+- 💡 Front-end - Experiência em HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, WORDPRESS, ANGULAR E REACT
 - 💻 Back-end - Conhecimento em PHP, JAVA, SPRINGBOOT, NODEJS, MONGODB e MYSQL
 - 😄 Pronomes:ele/dele
 
