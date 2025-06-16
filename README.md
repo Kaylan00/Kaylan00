@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working as a **Software Development Intern at Seazone** 
 - 📚 I'm currently studying **Analysis and Systems Development** 
-- 🌱 I'm currently learning more about: **Generative AI and Microservices Architecture**
 - 😄 Pronouns: **He/Him**
 
 ---
