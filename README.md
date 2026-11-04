@@ -66,7 +66,6 @@
 
 <p align="center">
   <a href="https://github.com/Kaylan00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaylan00&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaylan00&theme=dracula" alt="GitHub Streak" />
   </a>
 </p>
