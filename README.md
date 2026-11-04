@@ -1,12 +1,20 @@
 <div align="center">
 
-### 👋 Hi there, I'm Kaylan!
+### 👋 Oi, eu sou o Kaylan!
 
 </div>
 
-- 🔭 I'm currently working as a **Software Development Intern at Seazone** 
-- 📚 I'm currently studying **Analysis and Systems Development** 
+- 💻 Desenvolvedor front-end e full stack: React, TypeScript, Redux, Next.js e Node.js
+- 🚀 Produtos meus no ar: [Encaixaê](https://encaixae.com.br) e [Rendin](https://rendin.com.br)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: **He/Him**
+
+### 📌 Projetos em destaque
+
+- [painel-anuncios](https://github.com/Kaylan00/painel-anuncios): painel de vendedor de marketplace com React, Redux Toolkit e 156 testes ([demo](https://painel-anuncios-xi.vercel.app))
+- [vitrine-headless](https://github.com/Kaylan00/vitrine-headless): loja em Next.js e GraphQL com testes em Vitest e Playwright ([demo](https://vitrine-headless.vercel.app))
+- [pedidos-ia-erp](https://github.com/Kaylan00/pedidos-ia-erp): extração de pedidos com LLM validada por schema ([demo](https://pedidos-ia-erp.vercel.app))
+- [lastmile-go](https://github.com/Kaylan00/lastmile-go): microsserviços em Go com eventos ([demo](https://lastmile-go.vercel.app))
 
 ---
 
@@ -24,6 +32,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 #### Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,6 +41,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools & DevOps
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
