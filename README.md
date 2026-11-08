@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="kaylan argollo, desenvolvedor front-end e full stack">
+  <img src="assets/hero.svg" width="100%" alt="kaylan argollo, desenvolvedor full stack e ux designer">
 </p>
 
 <p align="center">
-  Faço sites e sistemas do design ao código. Na Seazone, baixei um dashboard de 14 s para 3 s.<br>
-  Hoje mantenho dois produtos meus no ar, o <a href="https://encaixae.com.br">Encaixaê</a> e o <a href="https://rendin.com.br">Rendin</a>, e faço sites para clientes.
+  <b>Eu desenho a tela e programo o que roda por trás dela.</b><br>
+  Tenho dois produtos meus no ar, o <a href="https://encaixae.com.br">Encaixaê</a> e o <a href="https://rendin.com.br">Rendin</a>, e faço sites para bares, ONGs e pequenas empresas.
 </p>
 
 <p align="center">
