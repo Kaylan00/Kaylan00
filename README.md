@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="kaylan argollo, desenvolvedor full stack e ux designer">
+  <img src="assets/abertura.svg" width="100%" alt="kaylan argollo, desenvolvedor full stack e ux designer">
 </p>
 
 <p align="center">
